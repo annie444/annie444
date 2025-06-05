@@ -7,7 +7,7 @@ I'm currently at [Caltech/IPAC](https://www.ipac.caltech.edu/), where I build an
 ### 🔧 What I work on
 
 - 🛰️ Distributed systems & storage (Ceph, ZFS, Kubernetes, observability stacks)
-- 🦀 Embedded Rust — currently writing [`ask433`](https://github.com/yourusername/ask433), a no_std RF driver
+- 🦀 Embedded Rust — currently writing [`ask433`](https://github.com/yourusername/ask433), a `#[no_std]` RF driver
 - 🧮 Scripting languages and DSLs — like [Xod](https://github.com/yourusername/xod), a tiny REPL for bitwise math
 - 📊 Privacy-respecting telemetry, logging, and reproducibility tooling
 
