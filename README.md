@@ -22,3 +22,9 @@ I believe in open tools for shared liberation. That means code should be legible
 ---
 
 _Thanks for stopping by! If you’re working on something weird, resilient, or Rusty—I’d love to hear about it._
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Annie 444's github stats" src="https://gh-readme-stats-seven-green.vercel.app/api?username=annie444&show_icon=true&show_border=true" />
+</details>
